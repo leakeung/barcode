@@ -1,0 +1,7 @@
+{
+    "name": "lessclick-system/barcode",
+    "description": "Fork do codeitnowin/barcode que foi descontinuado",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
