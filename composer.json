@@ -4,7 +4,7 @@
     "license": "MIT",
     "description": "Fork do codeitnowin/barcode que foi descontinuado",
     "keywords": ["barcode","lessclick-system"],
-    "homepage": " https://jacquesxazevedo@bitbucket.org/lessclick-systems/barcode.git",
+    "homepage": "https://bitbucket.org/lessclick-systems/barcode.git",
     "require": {
         "php": ">=7.0.0"
     }
