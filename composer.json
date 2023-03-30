@@ -1,6 +1,6 @@
 {
     "type": "library",
-    "name": "lessclick-system/barcode",
+    "name": "leakeung/barcode",
     "license": "MIT",
     "description": "Fork do codeitnowin/barcode que foi descontinuado",
     "keywords": ["barcode","lessclick-system"],
